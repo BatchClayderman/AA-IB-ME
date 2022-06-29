@@ -1,3 +1,3 @@
-# Fuzzy_ME
+# AA-IB-ME
 
-Implementation of Fuzzy Identity-based Matchmaking Encryption
+Implementation of AA-IB-ME Encryption
